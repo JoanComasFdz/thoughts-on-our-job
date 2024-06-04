@@ -33,7 +33,7 @@ Because not being polarized requires thinking, and people seems to be tired of t
 
 At the end, it all drips down to your job.
 
-Most of the developers I know just want to be told what to do and how to do it, with very clear instructions, so they they can do their 3 nested loops and 2 ifs and go home at 5pm.
+Most of the developers I know just want to be told what to do and how to do it, with very clear instructions, so they can do their 3 nested loops and 2 ifs and go home at 5pm.
 
 And using the Toolbox 🧰... requires constant thinking.
 
